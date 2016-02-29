@@ -5,3 +5,4 @@ I am trying to learn GIT, it is one of the best versioning tool in market right 
 So Git iss best
 
 I dont know anything now but will learn eventually
+It is ery frustrating to learn myself
